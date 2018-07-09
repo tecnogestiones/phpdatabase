@@ -262,7 +262,7 @@
             "displayName": "MariaDB Database Name",
             "name": "MYSQL_DATABASE",
             "required": true,
-            "value": "sampledb"
+            "value": "2018_1"
         },
         {
             "description": "Version of MariaDB image to be used (10.1, 10.2 or latest).",
